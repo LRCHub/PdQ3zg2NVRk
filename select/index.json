@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "待チ人ハ来ズ。",
+  "base_artist": "豚乙女",
+  "createdAt": "2025-12-01T15:12:19.230532Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "待チ人ハ来ズ。",
+      "artist": "豚乙女-BUTAOTOME-",
+      "has_synced": false,
+      "path": "select/01_待チ人ハ来ズ。_豚乙女-BUTAOTOME-.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "待チ人ハ来ズ。",
+      "artist": "豚乙女-BUTAOTOME-",
+      "has_synced": true,
+      "path": "select/02_待チ人ハ来ズ。_豚乙女-BUTAOTOME-.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "待チ人ハ来ズ。",
+      "artist": "Butaotome",
+      "has_synced": true,
+      "path": "select/03_待チ人ハ来ズ。_Butaotome.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "待チ人ハ来ズ。",
+      "artist": "豚乙女",
+      "has_synced": true,
+      "path": "select/04_待チ人ハ来ズ。_豚乙女.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "待チ人ハ来ズ。",
+      "artist": "豚乙女",
+      "has_synced": false,
+      "path": "select/05_待チ人ハ来ズ。_豚乙女.txt"
+    }
+  ]
+}
